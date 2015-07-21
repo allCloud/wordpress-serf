@@ -1,4 +1,4 @@
-FROM ubuntu:lucid
+FROM ubuntu:precise
 MAINTAINER Lucas Carlson <lucas@rufy.com>
 
 # Let's get serf
