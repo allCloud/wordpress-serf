@@ -22,7 +22,7 @@ ADD /apache_default /etc/apache2/sites-available/default
 # Now install APC
 RUN apt-get install -qy php-pear php5-dev make libpcre3-dev
 RUN pecl install apc
-RUN pecl install memcache
+#RUN pecl install memcache
 
 # Let's get serf
 RUN apt-get install -qy unzip
