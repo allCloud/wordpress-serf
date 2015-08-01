@@ -1,4 +1,4 @@
-FROM hub.alauda.cn/repos/yongfeng/wordpress
+FROM index.alauda.cn/yongfeng/wordpress
 MAINTAINER Lucas Carlson <lucas@rufy.com>
 
 # Let's get serf
