@@ -1,4 +1,4 @@
-FROM index.alauda.cn/yongfeng/wordpress
+FROM  ctlc/wordpress
 MAINTAINER Lucas Carlson <lucas@rufy.com>
 
 # Let's get serf
